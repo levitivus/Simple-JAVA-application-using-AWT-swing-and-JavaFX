@@ -1,0 +1,60 @@
+animal:tiger:largest big cat    
+animal:elephant:largest land animal
+animal:giraffe:tallest land animal
+country:india:largest country by population
+country:japan:island nation in east asia
+country:brazil:largest country in south america
+movie:inception:dream within a dream
+movie:avatar:highest grossing movie
+tech:computer:everything runs here
+tech:database:your data is stored here
+country:iceland:green is the other one
+country:chile:a country shaped like a guitar string in latin america
+country:jordan:named after a river, neighbours a sea thats dead
+country:moanco:whole country fits inside a city
+country:peru:machu pichu keeps it secret here
+country:cuba:cigars,revolutions,che guevera,fidel castro
+country:nepal:the sky touches the ground here, tallest mountain and the forbidden one
+country:iraq:epic of gilgamesh
+country:egypt:nile graces this nation of phraohs
+movie:gravity:she floats,she falls, she survives in that order
+movie:whiplash:a drumstick and broken spirit which breaks first?
+movie:dune:sand, prophecy, and very uncomfortable politics
+movie:matrix:red pill or blue pill?
+movie:memories:he will pay for her sins.
+movie:gladiator:my name is maximus decimus meridius....
+movie:memento:he wrote the ending at the begining on his skin
+movie:swades:from nasa to the rural outreaches of india
+movie:seven:there are 7 deadly sins
+movie:fightclub:nobody talks about **********
+movie:sinners:i was nominated 16 times
+tech:python:a language named after a cold blooded reptilian
+tech:kernel:invincible heart of an OS, named after corn
+tech:bitcoin:the money you wish you knew how it worked
+tech:github:where code lives,dies and gets blamed
+tech:malloc:Ask nicely for memory; forget to free it, pay dearly
+tech:latency:the silence between asking and receiving
+tech:boolean:Only two answers — and both feel limiting
+tech:terminal:The dark box where real power lives
+books:dracula:the prince of darkness with an apetite for hemoglobin
+books:metamorphosis:kafkas transition to a bug
+books:odyssey:a very long trip from short vanity war
+books:mahabharatha:"Dharma protects those who uphold it"
+books:bible:genesis to revelations
+books:dune:magical sands and politics
+animal:plaptypus:only egg laying mammal
+animal:octopus:Eight arms, three hearts, one very devious brain
+animal:zebras:the forbidden horse with stripes
+animal:lion:king of the jungle
+animal:sloth:slowest mammals
+animal:flamingo:a group of them are known as "flamboyance"
+animal:panda:found only in china, lazy and love bamboos
+personality:gandhi:he defeated an empire with salt and silence
+personality:darwin:the Guy Who Proved You're Related to a Chimp
+personality:newton:why did the apple fall?
+personality:curie:the only person to win the nobel prize in two different sciences
+personality:augustus:"I came, I saw, I conquered"
+personality:stalin:"1 death is a tragedy, a million death is a statistics"
+space:cosmonaut:a russian guy in space
+tech:syntax:the structure of statements in a computer language
+word:palindrome:it reads itself backwards — and is fine with that
